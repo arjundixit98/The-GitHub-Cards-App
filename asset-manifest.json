@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/The-GitHub-Cards-Appcl/static/css/main.52c53b8b.chunk.css",
+    "main.js": "/The-GitHub-Cards-Appcl/static/js/main.968b5d8c.chunk.js",
+    "main.js.map": "/The-GitHub-Cards-Appcl/static/js/main.968b5d8c.chunk.js.map",
+    "runtime-main.js": "/The-GitHub-Cards-Appcl/static/js/runtime-main.d1cf7f2c.js",
+    "runtime-main.js.map": "/The-GitHub-Cards-Appcl/static/js/runtime-main.d1cf7f2c.js.map",
+    "static/js/2.062d57d8.chunk.js": "/The-GitHub-Cards-Appcl/static/js/2.062d57d8.chunk.js",
+    "static/js/2.062d57d8.chunk.js.map": "/The-GitHub-Cards-Appcl/static/js/2.062d57d8.chunk.js.map",
+    "static/js/3.41f70e34.chunk.js": "/The-GitHub-Cards-Appcl/static/js/3.41f70e34.chunk.js",
+    "static/js/3.41f70e34.chunk.js.map": "/The-GitHub-Cards-Appcl/static/js/3.41f70e34.chunk.js.map",
+    "index.html": "/The-GitHub-Cards-Appcl/index.html",
+    "static/css/main.52c53b8b.chunk.css.map": "/The-GitHub-Cards-Appcl/static/css/main.52c53b8b.chunk.css.map",
+    "static/js/2.062d57d8.chunk.js.LICENSE.txt": "/The-GitHub-Cards-Appcl/static/js/2.062d57d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1cf7f2c.js",
+    "static/js/2.062d57d8.chunk.js",
+    "static/css/main.52c53b8b.chunk.css",
+    "static/js/main.968b5d8c.chunk.js"
+  ]
+}
